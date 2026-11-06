@@ -1,10 +1,3 @@
-
-/* Calcular el costo de un terreno.
-El precio es de $900 por m2.
-Descuento del 10% si el area pasa de 500 m2
-y del 15% si pasa de 1000 m2.
-*/
-
 #include <stdio.h>
 
 int main(){
